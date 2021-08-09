@@ -19,9 +19,10 @@ Multinomial Naive Bayes, Linear DVC, Random Forest, logistic Regression
 
 
 ## Running
-- Make sure the data files are in the apprpriate path
-- Download all hte necessary packages and dependencies ()
-- Run the file main_subtask.py only, it should also notify about any missing packages 
+- Make sure the data files are in the appropriate path
+- Download all hte necessary packages and dependencies 
+- Run the file main_subtask.py only, it should also notify about any missing packages and dependencies
+- Code was tested with Python 3
 
 ## Usage
-This project code is free to use without any restrictions.
+This project code purely for academic purpose and is free to use without any restrictions. Parts of the codes were refactored from toerh reserachers work and should be properly acknowledged 
