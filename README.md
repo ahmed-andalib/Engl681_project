@@ -2,7 +2,7 @@
 # OffensEval
 SemEval 2019 - Task 6 - Identifying and Categorizing Offensive Language in Social Media 
 
-## Descrption
+## Description
 This project investigets OffensEval 2019 subtask A: Idnetifying offensive Tweets. Multiple machine learning models have been evluated on various feature vector methods
 
 
