@@ -41,7 +41,7 @@ class Classifier:
     def fit(self,tr_data,tr_labels):
         return self.model.fit(tr_data,tr_labels)
 
-    ### this is a standalone mathod to test a model with test data
+    ### this is a standalone method to test a model with test data
     ## method returns the mode predictions
     def predict(self,tst_data):
         return self.model.predict(tst_data)
