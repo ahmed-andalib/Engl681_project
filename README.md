@@ -25,4 +25,4 @@ Multinomial Naive Bayes, Linear DVC, Random Forest, logistic Regression
 - Code was tested with Python 3
 
 ## Usage
-This project code purely for academic purpose and is free to use without any restrictions. Parts of the codes were refactored from other reserachers' work and should be properly acknowledged and cited. 
+This project code is purely for academic purpose not intended to be published or distributed as published work for any commercial or non-commercial putpose and is free to use without any restrictions. Parts of the codes were refactored from other reserachers' work and should be properly acknowledged and cited. Please 
